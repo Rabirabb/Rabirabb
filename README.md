@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rabirabb
-- 👀 I’m interested in Full stack developer
+- 👀 I’m interested to be Full stack developer
 - 🌱 I’m currently learning C++
 - 📫 How to reach me >> instagram @rb_ima
 
